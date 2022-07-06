@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-smarthr", "stylelint-config-recess-order"],
+  "rules": {
+    "value-list-comma-space-after": null,
+    "function-no-unknown": null
+  }
+}

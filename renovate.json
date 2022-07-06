@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "github>kufu/renovate-config"
+  ],
+  "enabledManagers": ["npm"],
+  "packageRules": [
+    {
+      "groupName": "Socket.IO",
+      "matchPackageNames": [
+        "socket.io",
+        "socket.io-client"
+      ]
+    }
+  ]
+}

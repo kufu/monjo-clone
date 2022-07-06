@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: "yarn run dev"
+    volumes:
+      - ./content:/app/content
+    ports:
+      - "3110:3110"

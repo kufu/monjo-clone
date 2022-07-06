@@ -1,0 +1,1 @@
+export { UtsuwaTrial } from './UtsuwaTrial'

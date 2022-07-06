@@ -1,0 +1,1 @@
+export { RelatedLink } from './RelatedLink'

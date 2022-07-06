@@ -1,0 +1,1 @@
+export { ReactMarkdownHeading } from './ReactMarkdownHeading'
