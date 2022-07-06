@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "eafa344a-e794-4846-b50d-24a9fa6de1ea",
+      "title": "2022/06/15-2022/06/21 評価シートを音声読み上げなどの支援技術で読み取りやすくしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/evaluation/2022-06-22/eafa344a-e794-4846-b50d-24a9fa6de1ea"
+    },
+    {
+      "id": "21a3919a-fa94-4e15-b92c-77b6f1765bdf",
+      "title": "2022/06/01-2022/06/07 表組みの［この行を表示］で表示されるラベルとフォームの関係性を支援技術で読み取りやすくしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/evaluation/2022-06-07/21a3919a-fa94-4e15-b92c-77b6f1765bdf"
+    },
+    {
+      "id": "a1d65df3-cc53-4a29-8b13-bae09beb2bc1",
+      "title": "2022/05/24 権限の操作履歴が見れるようになりました 他1件",
+      "url": "https://support.smarthr.jp/ja/release-notes/evaluation/2022-05-24/a1d65df3-cc53-4a29-8b13-bae09beb2bc1"
+    },
+    {
+      "id": "c8af36f1-5be4-4a44-996b-d8d498f355f8",
+      "title": "2022/05/17 複製・削除ダイアログの確認画面の文言を変更しました 他",
+      "url": "https://support.smarthr.jp/ja/release-notes/evaluation/2022-05-17/c8af36f1-5be4-4a44-996b-d8d498f355f8"
+    },
+    {
+      "id": "8736396c-1e2b-48f4-9aec-d4881f79055f",
+      "title": "2022/04/14-2022/04/18 表組み内のフォームの「下書き中の変更を元に戻す」ボタンの表示を変更しました 他",
+      "url": "https://support.smarthr.jp/ja/release-notes/evaluation/2022-04-20/8736396c-1e2b-48f4-9aec-d4881f79055f"
+    }
+  ]
+}

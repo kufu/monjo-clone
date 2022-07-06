@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "8dd8ff65-aba8-412d-b62c-1ce6565894dd",
+      "title": "2022/06/20 定期代を編集できるようにしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/route/2022-06-20/8dd8ff65-aba8-412d-b62c-1ce6565894dd"
+    },
+    {
+      "id": "2e3349cd-aef4-4403-9d2c-997b2dee3fd3",
+      "title": "2022/06/07 車種区分が「軽・二輪」の場合でも有料道路の料金を計算できるようにしました 他1件",
+      "url": "https://support.smarthr.jp/ja/release-notes/route/2022-06-07/2e3349cd-aef4-4403-9d2c-997b2dee3fd3"
+    },
+    {
+      "id": "6a130e93-c9c5-4817-a982-a945848c3e36",
+      "title": "2022/05/16 出発地・目的地にスポットを入力できるようになりました",
+      "url": "https://support.smarthr.jp/ja/release-notes/route/2022-05-16/6a130e93-c9c5-4817-a982-a945848c3e36"
+    },
+    {
+      "id": "73540755-c206-4740-a999-ac4ce60fe59a",
+      "title": "2022/04/27 「電車・バス」のとき、申請者がどの候補から経路を選択したかを確認できるようになりました",
+      "url": "https://support.smarthr.jp/ja/release-notes/route/2022-04-27/73540755-c206-4740-a999-ac4ce60fe59a"
+    },
+    {
+      "id": "21880037-6860-4d40-859a-11d63bcf520b",
+      "title": "2022/04/25 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/route/2022-04-25/21880037-6860-4d40-859a-11d63bcf520b"
+    }
+  ]
+}

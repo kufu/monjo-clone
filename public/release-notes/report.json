@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "cecd8d85-574c-45b7-87e7-c0e9748927e4",
+      "title": "2022/06/20 レポートの詳細画面と編集画面の操作メニューを変更しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/report/2022-06-20/cecd8d85-574c-45b7-87e7-c0e9748927e4"
+    },
+    {
+      "id": "06bcaef2-5310-4ce3-8c2d-7f57a99832b0",
+      "title": "2022/06/13 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/report/2022-06-13/06bcaef2-5310-4ce3-8c2d-7f57a99832b0"
+    },
+    {
+      "id": "65071a79-86de-48a1-8f45-c9be7e604f73",
+      "title": "2022/06/07 データの同期開始後に追加・変更・削除されたデータは同期しないようにしました 他1件",
+      "url": "https://support.smarthr.jp/ja/release-notes/report/2022-06-07/65071a79-86de-48a1-8f45-c9be7e604f73"
+    },
+    {
+      "id": "a4f38cdd-b497-4a7a-857e-473d816b6826",
+      "title": "2022/05/30 令和4年版の様式に対応したロクイチ報告用のプリセットレポートを作成できるようにしました 他2件",
+      "url": "https://support.smarthr.jp/ja/release-notes/report/2022-05-30/a4f38cdd-b497-4a7a-857e-473d816b6826"
+    },
+    {
+      "id": "0a052fc9-5f89-4a0f-b263-80630366374d",
+      "title": "2022/05/23-24 「離職分析レポート」に注意事項を記載したテキストウィジェットを追加しました 他1件",
+      "url": "https://support.smarthr.jp/ja/release-notes/report/2022-05-23/0a052fc9-5f89-4a0f-b263-80630366374d"
+    }
+  ]
+}

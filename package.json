@@ -9,21 +9,7 @@
   "setup": "yarn",
   "scripts": {
     "dev": "yarn run build-public-images:dev && next dev -p 3110",
-    "build": "yarn run build-public-images:prod && yarn run clean-content-images && yarn run build-release-notes-json && next build",
-    "start": "next start -p 3110",
-    "test": "jest",
-    "lint": "run-p lint:*",
-    "lint:next": "next lint",
-    "lint:eslint": "eslint './**/*.{ts,tsx}'",
-    "lint:style": "stylelint './**/*.{ts,tsx}'",
-    "lint:text": "textlint './src/**/*.{ts,tsx,md}'",
-    "lint:markdown": "textlint ./content",
-    "prepare": "husky install",
-    "build-public-images:prod": "ts-node --project tsconfig-ts-node.json ./src/scripts/buildPublicImage/production.ts",
-    "build-public-images:dev": "ts-node --project tsconfig-ts-node.json ./src/scripts/buildPublicImage/development.ts",
-    "build-release-notes-json": "ts-node --project tsconfig-ts-node.json ./src/scripts/buildReleaseNotesJson.ts",
-    "new-release-note": "ts-node --project tsconfig-ts-node.json ./src/scripts/createNewReleaseNote.ts",
-    "clean-content-images": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' -o -name '*.gif' -o -name '*.jpeg' \\) -delete"
+    "build": "next build"
   },
   "lint-staged": {
     "*.{ts,tsx}": [

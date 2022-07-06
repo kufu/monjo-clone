@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "0b838981-a8f8-46e4-ad1d-f4e694ef7345",
+      "title": "2022/06/30 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/api/2022-06-30/0b838981-a8f8-46e4-ad1d-f4e694ef7345"
+    },
+    {
+      "id": "58f3f612-501d-4433-a04f-59ecd2802c5e",
+      "title": "2022/06/29 従業員リストAPIに従業員情報を指定できるパラメーターを追加しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/api/2022-06-29/58f3f612-501d-4433-a04f-59ecd2802c5e"
+    },
+    {
+      "id": "df46ff72-052c-4b96-9c67-950b567591c0",
+      "title": "2022/06/24 ビジネスネームでユーザー情報を取得できるようにしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/api/2022-06-24/df46ff72-052c-4b96-9c67-950b567591c0"
+    },
+    {
+      "id": "c07c5e6b-dd4c-44ae-9ea6-d790fa548576",
+      "title": "2022/06/09 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/api/2022-06-09/c07c5e6b-dd4c-44ae-9ea6-d790fa548576"
+    },
+    {
+      "id": "6b7aa605-9691-4fd4-b4c7-a8fe61541f74",
+      "title": "2022/06/06 雇用形態取得API（/api/v1/employment_types）の並び順を、［雇用形態］一覧画面の並び順と揃えました",
+      "url": "https://support.smarthr.jp/ja/release-notes/api/2022-06-06/6b7aa605-9691-4fd4-b4c7-a8fe61541f74"
+    }
+  ]
+}

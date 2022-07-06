@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "056bb41e-1275-4102-97b3-ba5b1eff6070",
+      "title": "2022/06/27 書類の一括ダウンロード画面に［実行者］を表示するようにしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/keiyaku/2022-06-27/056bb41e-1275-4102-97b3-ba5b1eff6070"
+    },
+    {
+      "id": "0b9977c8-b3ec-4ed7-b6a7-dbd56221f389",
+      "title": "2022/06/20 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/keiyaku/2022-06-20/0b9977c8-b3ec-4ed7-b6a7-dbd56221f389"
+    },
+    {
+      "id": "4f7fbaec-c78f-4b97-9e84-13eb2587dc3f",
+      "title": "2022/06/14 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/keiyaku/2022-06-14/4f7fbaec-c78f-4b97-9e84-13eb2587dc3f"
+    },
+    {
+      "id": "5bf9f3bc-a0eb-42f4-930d-4792a971fb9b",
+      "title": "2022/06/07 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/keiyaku/2022-06-07/5bf9f3bc-a0eb-42f4-930d-4792a971fb9b"
+    },
+    {
+      "id": "ecd6a1a8-4bf7-44ec-ad40-2c02c0d301b7",
+      "title": "2022/05/31 共同管理設定されたアカウントの場合、依頼グループ詳細画面の［データの再取得］を非表示にするようにしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/keiyaku/2022-05-31/ecd6a1a8-4bf7-44ec-ad40-2c02c0d301b7"
+    }
+  ]
+}

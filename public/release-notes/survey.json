@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "cb385244-2f44-4be7-a103-a789b31a4c1d",
+      "title": "2022/06/27 各ページのタイトルから、ページの内容を把握しやすくしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/survey/2022-06-27/cb385244-2f44-4be7-a103-a789b31a4c1d"
+    },
+    {
+      "id": "346ee17a-d27d-4e5f-8c16-7921b9e2e1ff",
+      "title": "2022/06/14 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/survey/2022-06-14/346ee17a-d27d-4e5f-8c16-7921b9e2e1ff"
+    },
+    {
+      "id": "0526fa32-e79d-45a0-8d02-4dcf83987196",
+      "title": "2022/06/07 結果画面のグラフのレイアウトを変更しました 他1件",
+      "url": "https://support.smarthr.jp/ja/release-notes/survey/2022-06-07/0526fa32-e79d-45a0-8d02-4dcf83987196"
+    },
+    {
+      "id": "df22b4cd-bb5a-4800-91a8-b6ad5aaa3fca",
+      "title": "2022/06/01 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/survey/2022-06-01/df22b4cd-bb5a-4800-91a8-b6ad5aaa3fca"
+    },
+    {
+      "id": "c56dba1d-e777-4a4b-b710-e0c99beb6eb8",
+      "title": "2022/05/31 不具合2件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/survey/2022-05-31/c56dba1d-e777-4a4b-b710-e0c99beb6eb8"
+    }
+  ]
+}

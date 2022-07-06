@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "c123b6ef-5826-4776-b60d-9756280b7df5",
+      "title": "2022/06/29 おまかせ はたラクサポート連携機能のUIを新しくしました 他2件",
+      "url": "https://support.smarthr.jp/ja/release-notes/smarthr/2022-06-29/c123b6ef-5826-4776-b60d-9756280b7df5"
+    },
+    {
+      "id": "c4a82a25-2f1f-4da9-bade-fc58142cb19d",
+      "title": "2022/06/27 ［取り消し］ステータスの申請をアーカイブできるようにしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/smarthr/2022-06-27/c4a82a25-2f1f-4da9-bade-fc58142cb19d"
+    },
+    {
+      "id": "570dabe5-e02c-4083-af83-b04cbea06fe5",
+      "title": "2022/06/24 メールアドレスアカウント一覧画面、SAML SSOアカウント画面で、アカウントをビジネスネームで検索できるようにしました 他2件",
+      "url": "https://support.smarthr.jp/ja/release-notes/smarthr/2022-06-24/570dabe5-e02c-4083-af83-b04cbea06fe5"
+    },
+    {
+      "id": "88c384be-d6cc-491e-960e-3d03e5846c8c",
+      "title": "2022/06/21 従業員情報の変更履歴一覧に、「年月日」＋「時分秒」を表示するようにしました 他2件",
+      "url": "https://support.smarthr.jp/ja/release-notes/smarthr/2022-06-21/88c384be-d6cc-491e-960e-3d03e5846c8c"
+    },
+    {
+      "id": "e1d1ceb1-35d2-478f-8a0e-b418ebff9038",
+      "title": "2022/06/20 不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/smarthr/2022-06-20/e1d1ceb1-35d2-478f-8a0e-b418ebff9038"
+    }
+  ]
+}

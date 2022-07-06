@@ -1,0 +1,29 @@
+{
+  "releaseNotes": [
+    {
+      "id": "328fb987-3c0a-4eda-880c-ce29e388c31e",
+      "title": "2022/06/29 おまかせ はたラクサポート連携機能をリニューアルしました",
+      "url": "https://support.smarthr.jp/ja/release-notes/app-integrations/2022-06-29/328fb987-3c0a-4eda-880c-ce29e388c31e"
+    },
+    {
+      "id": "ecdbeb11-eed5-4c6a-8ce0-4dbaac64e118",
+      "title": "2022/04/27【freee人事労務】不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/app-integrations/2022-04-27/ecdbeb11-eed5-4c6a-8ce0-4dbaac64e118"
+    },
+    {
+      "id": "5420914095001",
+      "title": "2022/04/12【勤革時】不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/app-integrations/2022-04-12_03/5420914095001"
+    },
+    {
+      "id": "5420876300825",
+      "title": "2022/04/12【Touch On Time】不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/app-integrations/2022-04-12_02/5420876300825"
+    },
+    {
+      "id": "5420896164249",
+      "title": "2022/04/12【KING OF TIME】不具合1件を修正しました",
+      "url": "https://support.smarthr.jp/ja/release-notes/app-integrations/2022-04-12_01/5420896164249"
+    }
+  ]
+}
